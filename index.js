@@ -4,7 +4,7 @@
 // console.log(element);
 // //set elemtn values by index
 // numbers[1] = 34;
-// numbers[3] = 59;
+// numbres[3] = 59;
 // console.log(numbers);
 // //find index of element{Give me the index of 54 & 66 froms array}
 // var positionIndex = numbers.indexOf(54);
